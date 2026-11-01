@@ -1,0 +1,17 @@
+{
+  "name": "SIDHAYA Resource Hub",
+  "short_name": "SIDHAYA",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#08152e",
+  "theme_color": "#101d41",
+  "icons": [
+    {
+      "src": "/logos/sidhaya.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
